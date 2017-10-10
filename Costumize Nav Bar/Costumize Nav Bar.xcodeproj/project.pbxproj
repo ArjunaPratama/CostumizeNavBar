@@ -14,6 +14,7 @@
 		DC085B311F8C80F4002658DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC085B2F1F8C80F4002658DD /* LaunchScreen.storyboard */; };
 		DC085B3C1F8C80F4002658DD /* Costumize_Nav_BarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC085B3B1F8C80F4002658DD /* Costumize_Nav_BarTests.swift */; };
 		DC085B471F8C80F4002658DD /* Costumize_Nav_BarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC085B461F8C80F4002658DD /* Costumize_Nav_BarUITests.swift */; };
+		DC085B551F8C8448002658DD /* hotel.png in Resources */ = {isa = PBXBuildFile; fileRef = DC085B541F8C8448002658DD /* hotel.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DC085B421F8C80F4002658DD /* Costumize Nav BarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Costumize Nav BarUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC085B461F8C80F4002658DD /* Costumize_Nav_BarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Costumize_Nav_BarUITests.swift; sourceTree = "<group>"; };
 		DC085B481F8C80F4002658DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC085B541F8C8448002658DD /* hotel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hotel.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		DC085B251F8C80F4002658DD /* Costumize Nav Bar */ = {
 			isa = PBXGroup;
 			children = (
+				DC085B541F8C8448002658DD /* hotel.png */,
 				DC085B261F8C80F4002658DD /* AppDelegate.swift */,
 				DC085B281F8C80F4002658DD /* ViewController.swift */,
 				DC085B2A1F8C80F4002658DD /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC085B551F8C8448002658DD /* hotel.png in Resources */,
 				DC085B311F8C80F4002658DD /* LaunchScreen.storyboard in Resources */,
 				DC085B2E1F8C80F4002658DD /* Assets.xcassets in Resources */,
 				DC085B2C1F8C80F4002658DD /* Main.storyboard in Resources */,
